@@ -1,6 +1,6 @@
 # Resturant Review App
 ---
-It is Udacity project to implement a website that works perfectly across devices and with Lie-fi or offline network by using Service Worker. 
+It is Udacity project to implement a website that works perfectly across devices and with Lie-fi or offline network by using Service Worker. In addition, it's accessible by all users. 
 The website shows a different cuisine on New York areas and gives a user the ability to filter out the restaurants.
 
 
